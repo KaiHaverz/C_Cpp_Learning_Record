@@ -1,8 +1,12 @@
 # C&C++ Learning Records
 
+open -a Typora README.md
+
 - This repository contains learning records of C and C++.
 - Based on Wengkai C and C++.
 - NKU C++2-2 2025 Spring.
+
+
 
 
 ## 1 OJ 作业题
@@ -27,6 +31,14 @@ g）重载输出运算符，按a/b形式打印Rational值，其中a为分子，b
 
 
 
+样例输入:
+
+
+
+样例输出:
+
+
+
 ### 1.2 第八章 多态
 
 
@@ -42,4 +54,4 @@ g）重载输出运算符，按a/b形式打印Rational值，其中a为分子，b
 
 
 
-### 1.6 第九章 类模版和元素排序
+#### 1.6 第九章 类模版和元素排序
