@@ -1,6 +1,10 @@
 {
-    "files.associations": {
-        "*.dbclient-js": "javascript",
-        "algorithm": "cpp"
-    }
+  "extensions.disabledRecommendations": [
+    "Alibaba-Cloud.tongyi-lingma"
+  ],
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "iostream": "cpp",
+    "3-模版": "cpp"
+  }
 }
